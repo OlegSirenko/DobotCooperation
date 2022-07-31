@@ -67,7 +67,7 @@ for cube in range(cubes_value):
     else:
         color = [0, 0, 1]
 
-    file_color = open(r"D:\PythonProjects\Two_Dobots_1\color.py", "w+")
+    file_color = open(r"D:\PythonProjects\Two_Dobots_1\color.py", "w+")  # this is file comunictaion, USE YOUR FILE PATH!
     file_color.write(str(color)+"w0")
     file_color.close()
 
