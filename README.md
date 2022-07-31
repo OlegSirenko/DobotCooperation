@@ -1,6 +1,8 @@
 # DobotCooperation
 Two Dobots cooperation. Used Dobot studio and PyDobot
 
+## Realisation video: https://www.youtube.com/watch?v=biJJbaEPKKs
+
 ## How does it works?
 - First you need to install [Dobot Studio](https://www.dobot.cc/downloadcenter/dobot-magician.html)
 - Next to install [PyDobot](https://pypi.org/project/pydobot2/)
